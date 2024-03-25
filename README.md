@@ -1,1 +1,6 @@
 # Text-Editor
+
+hello!...
+i'm Saad...
+I'm going to show you how to use Text-Edotor PHP, HTML and CSS to create a complete Text-Editor Design. 
+We'll be using PHP.
